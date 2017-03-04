@@ -22,7 +22,7 @@ $ python tournament_test.py
 
 ## Tables available
 
-**USERS**
+**players**
 
 Includes the player's name and Auto Generated ID number.
 

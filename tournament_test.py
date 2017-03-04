@@ -9,7 +9,6 @@
 from tournament import *;
 
 def testCount():
-    print(swissPairings());
     """
     Test for initial player count,
              player count after 1 and 2 players registered,
